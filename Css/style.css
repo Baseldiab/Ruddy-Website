@@ -14,7 +14,7 @@
 
 /* Start Header */
 header{
-    background: url(../Images/bg.jpg) center / cover;
+    background: url(../Images/bg.jpg) center top / cover;
     height: 100svh;
 }
 /* End Header */
